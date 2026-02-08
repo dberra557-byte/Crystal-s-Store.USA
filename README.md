@@ -1,6 +1,5 @@
-# Crystal-s-Store.USA
+# Crystal's Store.USA
 An online demo store using FakestoreAPI.
-# Crystals. USA Store
 
 A **demo online store** built with **HTML, JavaScript, Axios, and Bootstrap**.  
 This project fetches products from [FakeStoreAPI](https://fakestoreapi.com/) and demonstrates CRUD functionality for educational purposes.
